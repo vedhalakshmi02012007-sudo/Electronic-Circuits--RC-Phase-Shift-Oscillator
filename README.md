@@ -38,4 +38,5 @@ PC with LT Spice software
 <img width="1280" height="759" alt="image" src="https://github.com/user-attachments/assets/32bd6975-e3ca-4ff5-8f19-3107548dba44" />
 
 ## RESULT:
-![Uploading WhatsApp Image 2025-11-28 at 09.03.41_8364feb8.jpg…]()
+![WhatsApp Image 2025-11-28 at 09 03 41_8364feb8](https://github.com/user-attachments/assets/ca99ec48-2a66-4484-ae05-99291d3660ef)
+
